@@ -8,7 +8,7 @@ Static Discord bot which allows user to look up bible passages (USES CPDV Bible 
 Need to host the bot yourself
 
 
-# How to setup
+# Setup
 
 1) Go to <a href="https://discord.com/developers/applications">Discord Developer</a>
 2) Create a new application
@@ -24,6 +24,5 @@ $randompassage <br />
 
 # Credits 
 
-- Bible Json is taken from
-https://bitbucket.org/sbruno/cpdv-json-encoder/src/master/
+- CPDV JSON is taken from <a href="http://www.sacredbible.org/">sacredbible.org</a>
 
