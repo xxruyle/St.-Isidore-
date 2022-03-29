@@ -5,6 +5,8 @@
 # St. Isidore Bot
 Static Discord bot which allows user to look up bible passages (USES CPDV Bible Translation)
 
+Need to host the bot yourself
+
 
 # How to setup
 
