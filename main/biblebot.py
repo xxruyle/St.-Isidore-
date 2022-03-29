@@ -3,7 +3,7 @@ from discord.ext import commands
 from main import getverse
 from main import getrandomverse
 
-TOKEN = " "
+TOKEN = " "  # Put your OATH key here 
 
 client = commands.Bot(command_prefix="$")
 
