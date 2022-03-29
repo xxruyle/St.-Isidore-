@@ -10,7 +10,7 @@ Need to host the bot yourself
 
 # How to setup
 
-1) Go to <a href-"https://discord.com/developers/applications">Discord Developer</a>
+1) Go to <a href="https://discord.com/developers/applications">Discord Developer</a>
 2) Create a new application
 3) Create a URL with the OAuth2 URL Generator and give bot permissions
 4) Add the bot to your channel
