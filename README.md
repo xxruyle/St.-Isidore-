@@ -22,5 +22,8 @@ Need to host the bot yourself
 $passage (Book Chapter:Verse-Endverse) <br />
 $randompassage <br />
 
+# Credits 
 
+- Bible Json is taken from
+https://bitbucket.org/sbruno/cpdv-json-encoder/src/master/
 
