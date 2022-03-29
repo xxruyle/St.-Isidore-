@@ -3,6 +3,6 @@ Discord bible which allows user to look up bible passages (USES CPDV Bible Trans
 
 # Commands:
 
-$passage (Book Chapter:Verse-Endverse)
+$passage (Book Chapter:Verse-Endverse) \n
 $randompassage
 
