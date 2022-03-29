@@ -1,5 +1,5 @@
 # St.-Isidore-
-Discord bible which allows user to look up bible passages (USES CPDV Bible Translation)
+Discord bot which allows user to look up bible passages (USES CPDV Bible Translation)
 
 # Commands:
 
