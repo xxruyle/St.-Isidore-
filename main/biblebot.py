@@ -3,7 +3,7 @@ from discord.ext import commands
 from main import getverse
 from main import getrandomverse
 
-TOKEN = "OTU4MTgwNjMwNzU0MTI3OTEz.YkJlQA.9GeWdkInBH_Z-TJPEKLHWNR1Vok"
+TOKEN = " "
 
 client = commands.Bot(command_prefix="$")
 
