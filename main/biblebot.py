@@ -25,5 +25,6 @@ async def randompassage(ctx):
 async def on_command_error(error, ctx):
     if isinstance(error, commands.CommandInvokeError):
         await client.send_message(ctx.message.author, "Passage too long")
-
-client.run(TOKEN)
+        
+while __name__ == "__main__":
+    client.run(TOKEN)
