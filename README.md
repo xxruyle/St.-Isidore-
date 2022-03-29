@@ -19,8 +19,8 @@ Need to host the bot yourself
 
 # Discord Commands
 
-$passage (Book Chapter:Verse-Endverse) <br />
-$randompassage <br />
+- $passage (Book Chapter:Verse-Endverse) <br />
+- $randompassage <br />
 
 # Credits 
 
