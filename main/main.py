@@ -39,7 +39,7 @@ def getverse(passage):
         elif parsed_passage == 0:
             return "Not proper format (Book Chapter:list or Book Chapter)"
     except KeyError:
-        return "Not proper format (Book Chapter:list or Book Chapter)"  # If there is no passage that exists
+        return "That passage does not exist"  # If there is no passage that exists
 
 
 def getrandomverse():
