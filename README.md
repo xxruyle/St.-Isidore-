@@ -9,13 +9,14 @@ Need to host the bot yourself
 
 
 # Setup
-
-1) Go to <a href="https://discord.com/developers/applications">Discord Developer</a>
-2) Create a new application
-3) Create a URL with the OAuth2 URL Generator and give bot permissions
-4) Add the bot to your channel
-5) Add the OATH key in the biblebot.py 
-6) Run biblebot.py
+1) Install python and the discord.py library. Make sure to install other modules/libraries used in the code
+```pip install discord```
+2) Go to <a href="https://discord.com/developers/applications">Discord Developer</a>
+3) Create a new application
+4) Create a URL with the OAuth2 URL Generator and give bot permissions
+5) Add the bot to your channel
+6) Add the OATH key in the biblebot.py 
+7) Run biblebot.py
 
 # Discord Commands
 
