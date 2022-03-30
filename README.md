@@ -9,7 +9,7 @@ Need to host the bot yourself
 
 
 # Setup
-1) Install python and the discord.py library. Make sure to install other modules/libraries used in the code
+1) Install python and the discord.py library. Make sure to install other modules/libraries used in the code <br/>
 ```pip install discord```
 2) Go to <a href="https://discord.com/developers/applications">Discord Developer</a>
 3) Create a new application
