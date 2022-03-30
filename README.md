@@ -3,10 +3,11 @@
 </p>
 
 # St. Isidore Bot
-Static Discord bot which allows user to look up bible passages (USES CPDV Bible Translation)
+Discord bot which allows user to look up bible passages 
 
-Need to host the bot yourself
+Need to host and/or setup the bot yourself
 
+(USES CPDV Bible Translation)
 
 # Setup
 1) Install python and the discord.py library. Make sure to install other modules/libraries used in the code <br/>
@@ -18,10 +19,11 @@ Need to host the bot yourself
 6) Add the OATH key in the biblebot.py 
 7) Run biblebot.py
 
-# Discord Commands
+# Features
 
-- $passage (Book Chapter:Verse-Endverse) <br />
-- $randompassage <br />
+- Looking up a specific passage with the $passage command <br />
+- Getting a random passage or random verse with the $randombv or $randomv command  <br />
+- Use $help for more information
 
 # Credits 
 
