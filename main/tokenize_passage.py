@@ -1,4 +1,4 @@
-# Tokenizing the string so that (EX: Genesis 1:1) turns into (['Genesis' , '1' : '1'])
+# Tokenizing the string so that (EX: Genesis 1:1) turns into (['Genesis' , '1' , '1'])
 def parse(string):
     # split the string 
     token = string.split()
