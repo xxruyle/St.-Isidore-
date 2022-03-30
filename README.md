@@ -9,6 +9,12 @@ Need to host and/or setup the bot yourself
 
 (USES CPDV Bible Translation)
 
+# Features
+
+- Looking up a specific passage with the $passage command <br />
+- Getting a random passage or random verse with the $randombv or $randomv command  <br />
+- Use $help for more information
+
 # Setup
 1) Install python and the discord.py library. Make sure to install other modules/libraries used in the code <br/>
 ```pip install discord```
@@ -18,12 +24,6 @@ Need to host and/or setup the bot yourself
 5) Copy and paste the URL into your browser to add the bot to your channel
 6) Add the OATH key in the biblebot.py 
 7) Run biblebot.py
-
-# Features
-
-- Looking up a specific passage with the $passage command <br />
-- Getting a random passage or random verse with the $randombv or $randomv command  <br />
-- Use $help for more information
 
 # Credits 
 
